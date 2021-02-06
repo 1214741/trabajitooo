@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Pagina Sistemas de Inf </title>
+</head>
+
+<!-- Menú de navegación del sitio -->
+<ul class="navbar">
+<li><a href="Hoja de Excel.html">excel</a>
+<li><a href="Formulario.html">formulario</a>
+
+<body bgcolor="black" color="white"><center><h1> OBJETIVOS ESTRATEGICOS </h1></center>
+<center><img src="principal.pjn"></center>
+<img src="definicion.jpg">
+<table>
+<tr>
+<td><h2> ¿Qué son los Objetivos estratégicos?</h2> 
+
+<body text="white"><h3><p>Los objetivos estratégicos son los fines o metas desarrollados a nivel estratégico
+ y que la organización pretende lograr en un periodo determinado de tiempo. Podría decirse que los objetivos 
+son los que determinan qué es lo realmente importante en su estrategia organizacional. Así, se basan en la 
+visión, la misión y los valores de su organización y son ellos los que determinan las acciones y medios que 
+se ejecutarán para cumplirlos. Los objetivos estratégicos deben ser, principalmente, claros, coherentes, 
+medibles y alcanzables.</h3></p>
+
+</td>
+</tr>
+</table>
+
+<img src="objetivos.jpg">
+<table>
+<TR>
+<td><h2> ¿Cuáles son los objetivos estrategicos?</h2> 
+<table style="width:100%">
+
+<R3> </R3>
+<table border="1px solid black">
+<TR><TH>OBJETIVOS</TH><TH>DEFINICIÓN</TH><TH>URL</TH>
+</TR>
+
+<tr><td>Excelencia Operativa</td><td>La excelencia operativa está basada en el involucramiento de todos los empleados, el trabajo en equipo para resolver problemas y la búsqueda constante de la mejora continua en toda la organización.
+
+Esta cultura debe estar presente en todos los niveles, para lograrlo se necesita dar la capacitación y proveer las herramientas necesarias.</td><td><a href="url">https://es.linkedin.com/</a>
+
+
+<tr><td>Nuevos productos y modelos de negocios</td><td>crear nuevos productos y servicios, así como modelos de negocios totalmente nuevos. Un modelo de negocios describe la manera en que una empresa produce, distribuye y vende un producto o servicio para crear riqueza.</td><td><a href="url">https://sites.google.com//</a>
+
+<TR><td>Buena relacion con clientes y proveedores</td><td>Es la relación cliente – proveedor es que el cliente tenga la certeza de que el bien o servicio que le sea entregado o brindado sea de excelente calidad.</td><td><a href="url">http://www.formate-gratis.es/</a> 
+
+
+<tr><td>Toma de desiciones mejorada</td><td>se toman decisiones en todos los niveles de la empresa y que algunas de estas decisiones son comunes, rutinarias y numerosas. Aunque el valor de mejorar cualquier decisión individual puede ser pequeño, si se mejoran cientos de miles de pequeñas decisiones se puede obtener un gran valor anual para la empresa.</td><td><a href="url">https://www.efectodigital.online//</a>
+
+<tr><td>Supervivencia</td><td>Las empresas también invierten en sistemas y tecnologías de información porque son elementos necesarios para la realización de negocios. En ocasiones, cambios en la industria requieren estos “elementos necesarios”.</td><td><a href="url">https://blog.corponet.com.mx/</a>
+
+<tr><td>Ventajas Competitiva</td><td>ventaja competitiva es la pertenencia por parte de una empresa de recursos valiosos que la habilitan o permiten el desarrollo de actividades de mejor manera y normalmente en menor costo que el competidor. La visión estratégica de la tecnología de información implica el uso de tecnología para el desarrollo de mayores ventajas competitivas.</td><td><a href="url">https://sites.google.com/</a>
+  </tr>
+</table>
+</TR></TH>
+</table>
+
+
+
+<img src="video.jpg">
+<body>
+<div>
+<embed src="sistemas de inf.mp4" width="400" height="400">
+</div>
+</body>
+
+
+<FOOTER>
+<P> Author: Michell Tarazona</p>
+<p><a href="mailto: michell.tarazona@udea.edu.co"> michell.tarazona@udea.edu.co</a></p>
+</footer>
+
+
+
+</html>
