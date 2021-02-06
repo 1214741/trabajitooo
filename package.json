@@ -1,5 +1,0 @@
-{
-  type: 'core',
-  root: 'C:\\Users\\Juan Fernando\\AppData\\Roaming\\npm\\node_modules\\heroku',
-  name: '@heroku-cli/plugin-buildpacks'
-}
