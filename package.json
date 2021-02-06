@@ -1,5 +1,5 @@
 {
-    "require": {
-        "sistemasinf 3/sistemasinf 3":"1.0.0"
-    }
+  type: 'core',
+  root: 'C:\\Users\\Juan Fernando\\AppData\\Roaming\\npm\\node_modules\\heroku',
+  name: '@heroku-cli/plugin-ci'
 }
